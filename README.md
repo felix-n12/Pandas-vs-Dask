@@ -1,2 +1,2 @@
 # Pandas-vs-Dask
-Panads and Dask comparison
+Pandas and Dask comparison
